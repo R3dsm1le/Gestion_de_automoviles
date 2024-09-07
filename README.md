@@ -7,4 +7,4 @@ instrucciones de uso :
 
 primero activamos xampp, haciendo click en las casillas start de apache y mysql:
 
-![xampp corriendo](https://imgur.com/a/DsoXM74 "xampp")
+[![Imgur](https://imgur.com/a/DsoXM74)]([https://www.digitalocean.com/products/app-platform](https://imgur.com/a/DsoXM74))
