@@ -1,4 +1,3 @@
-Thank you for sharing your PHP project for automobile management using XAMPP and MySQL. I'll provide a more structured and professional-looking description of your project using Markdown, including proper spacing between images and text.
 
 # Gestion_de_automoviles
 
