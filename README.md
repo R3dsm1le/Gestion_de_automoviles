@@ -7,4 +7,4 @@ instrucciones de uso :
 
 primero activamos xampp, haciendo click en las casillas start de apache y mysql:
 
-https://imgur.com/a/DsoXM74
+![xampp corriendo](https://imgur.com/a/DsoXM74 "xampp")
