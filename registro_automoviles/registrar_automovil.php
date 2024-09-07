@@ -129,7 +129,7 @@
             </form>
         </div>
     </div>
-
+ <!-- footer con mis datos academicos -->
     <footer class="bg-gray-800 text-white mt-12 py-8">
         <div class="max-w-md mx-auto px-4">
             <h3 class="text-xl font-bold mb-4 text-center">Información del Estudiante</h3>
