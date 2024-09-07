@@ -129,5 +129,29 @@
             </form>
         </div>
     </div>
+
+    <footer class="bg-gray-800 text-white mt-12 py-8">
+        <div class="max-w-md mx-auto px-4">
+            <h3 class="text-xl font-bold mb-4 text-center">Información del Estudiante</h3>
+            <div class="grid grid-cols-2 gap-4">
+                <div>
+                    <p class="text-sm font-medium text-gray-400">Nombre:</p>
+                    <p class="mt-1 text-lg">Livan</p>
+                </div>
+                <div>
+                    <p class="text-sm font-medium text-gray-400">Apellido:</p>
+                    <p class="mt-1 text-lg">Gonzalez</p>
+                </div>
+                <div>
+                    <p class="text-sm font-medium text-gray-400">Cédula:</p>
+                    <p class="mt-1 text-lg">8-979-607</p>
+                </div>
+                <div>
+                    <p class="text-sm font-medium text-gray-400">Grupo:</p>
+                    <p class="mt-1 text-lg">1LS133</p>
+                </div>
+            </div>
+        </div>
+    </footer>
 </body>
 </html>
